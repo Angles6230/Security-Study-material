@@ -1,0 +1,57 @@
+IEEE 802.11-Wifi Standards
+IEEE 802.3-Ethernet Standards
+802.1X-User Authentication / NAC
+Physical Layer-Bits
+Data link Layer-Frames
+Network Layer-Packets
+Transport Layer-Segments
+Network Layer-ICMP
+Transport Layer-TCP
+Transport Layer-UDP
+Network Layer-IP
+Network Layer-IPsec
+Session Layer-NetBIOS
+Session Layer-H.245
+Presentation Layer-SSL
+Application Layer-SSH
+Application Layer-IMAP
+Application Layer-FTP
+Presentation Layer-MPEG
+Presentation Layer-JPEG
+Presentation Layer-HTML
+Presentation Layer-JAVASCRIPT
+Presentation Layer-TLS
+Presentation Layer-SSL
+Application Layer-HTTP
+Application Layer-POP3
+Application Layer-IMAP
+Application Layer-SMTP
+Application Layer-DNS
+Application Layer-TELNET
+RG-9-COAX cable company to individual homes
+RG 59-COAX cable box to television
+CAT3-10BASET 10 MBPS 100M
+CAT5-100BASETX 100 MBPS 100M
+CAT5E-1000BASETX 1000MBPS 100M
+CAT6-1000BASET/10GBASET 1000MBPS/10GBPS 100M/55M
+CAT6A-10GBASET 10GBPS 100M
+SFP-4.2GBPS
+STP+-10GBPS
+QSFP-40GBPS
+QSFP+-41.2GBPS
+POE-802.3AF
+POE+-802.3AT
+SPANNING TREE-802.1D
+VLAN TRUNKING-802.1Q
+802.11-2.4GHZ 1MBPS
+802.11A-5GHZ 54 MBPS
+802.11B-2.4GHZ 11 MBPS
+802.11G-2.4GHZ 54MBPS
+802.11N-2.4/5GHZ 300MBPS - CHANNEL BONDING
+802.11AC-5GHZ 3GBPS 0 MU-MIMO
+802.11AX-6GHZ 9.6GBPS MU-MIMO
+WEP-INITIALIZATION VECTOR
+WPA-48 BIT TKIP RC4
+WPA2-AES CCMP
+WPA3-SAE AES
+802.3ad-Link aggregation
