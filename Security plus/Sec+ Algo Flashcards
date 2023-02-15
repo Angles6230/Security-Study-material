@@ -1,0 +1,24 @@
+IDEA-Symmetric Encryption PGP encryption
+RC4-Symmetric Encryption weak IV WEP
+BlowFish-Symmetric Encryption 64 bit
+Two Fish-Symmetric Encryption
+DES-Symmetric Encryption Block cipher 64 bit (56 + 8 parity)
+3DES-Symmetric Encryption Block cipher 192 bit (168 bit + 24 parity)
+AES-Symmetric Encryption Rijndael Block cipher Variable (128, 192, 256) used practically everywhere
+RC5-Symmetric Encryption RSA Block mode cipher Variable (up to 2048)
+RSA-Asymmetric Encryption Key transport 512
+DiffieHellman-Asymmetric Algorithm key exchanges and key distribution
+El Gamal-Asymmetric Encryption Key exchange
+MD5-Hash (Digest) 128 bit digest weak, suffers collisions\n
+MD6-Hash
+SHA1-160 bit hash
+SHA2-hash 256bit (SHA256)
+SHA3-Hash arbitrary digest size
+HMAC-Hash
+RIPEMD-Hash 160 256 or 320 bit
+HMACMD5-Hash
+HMACSHA1-Hash
+NTLM-Hash 128 bits
+ECC-Asymmetric most secure algo ECC 256 = AES 2048
+GPG-Gnu Privacy Guard - new ver of PGP uses AES
+OTP-One time Pad, one time use
